@@ -1,0 +1,40 @@
+{
+  "resto": [
+    {
+      "name": "Ashish Restaurant",
+      "Adress": "Allahabad Uttar pradesh",
+      "email": "Ashish@Restaurant.co",
+      "id": 1
+    },
+    {
+      "name": "Sumit Restaurant",
+      "Adress": "Bangalore Inda ",
+      "email": "sumit@Restaurant.com",
+      "id": 2
+    },
+    {
+      "name": "Sonam Food Plaza",
+      "Adress": "Uttar pradesh",
+      "email": "sonam@foodplaza.com",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Ashish Mishra",
+      "password": "123456789",
+      "email": "ashish@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "ashish@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "email": "jsdfkj",
+      "password": "kajsfkahk",
+      "id": 3
+    }
+  ]
+}
